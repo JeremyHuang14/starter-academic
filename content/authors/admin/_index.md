@@ -17,9 +17,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Condensed Matter Physics
-- Topological Insulators
-- Strongly-correlated electrons systems
+- Condensed matter physics
+- Correlated electrons systems
+- Quantum information
+- Topological insulators
+- Optical crystals
 
 education:
   courses:
@@ -65,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, I'm Diancheng Huang, an undergraduate majoring in physics at Soochow University. I am currently investigating the thermoelectric properties of doped BaTiO3 near its ferroelectric transition in Prof. Bin Xu's computational condensed matter group. Previous to this, I have been in Prof. Yu Xin's experimental group to optimize the electrocatalytic properties of IrO2-SrTiO3.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My current interest is mainly in condensed matter physics, e.g. correlated electron systems, topological matter, two dimensional matters, spectroscopy (SEM, TEM, ARPES, neutron scattering). Also, some other areas like quantum information and transimission, AMO (ultracold atoms, optical/phonon crystals) are very interesting to me.
