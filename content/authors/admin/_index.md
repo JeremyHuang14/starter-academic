@@ -6,7 +6,7 @@ title: Diancheng Huang
 superuser: true
 
 # Role/position
-role: B.S. student of College of Physical Science and Technology
+role: B.S. student of Physics
 
 # Organizations/Affiliations
 organizations:
