@@ -31,6 +31,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "Photography"
   description = "10%"
+  
+[[feature]]
+  icon = "logo-matlab"
+  icon_pack = "custom"
+  name = "Matlab"
+  description = "50" 
 
 # Uncomment to use emoji icons.
 # [[feature]]
