@@ -26,7 +26,7 @@ Ferroelectric Transition "
   date_start = "2019-09-01"
   date_end = ""
   description = """
-   Investigated the thermoelectric properties of ferroelectric material BaTiO 3 using
+   Investigated the thermoelectric properties of ferroelectric material BaTiO3 using
 first-principles density functional theory (DFT).
   
   * Analysing
