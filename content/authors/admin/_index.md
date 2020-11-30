@@ -18,16 +18,17 @@ bio: My research interests include topological materials, superconductor, superf
 
 interests:
 - Condensed matter physics
-- Correlated electrons systems
-- Quantum information
 - Topological insulators
+- Correlated electrons systems
+- Two-dimensional materials
+- Quantum information
 - Optical crystals
 
 education:
   courses:
   - course: B.S. in Physics
     institution: Soochow University
-    year: 2017-Present
+    year: 2017-Present (EXpected: June 2021)
     
 
 
