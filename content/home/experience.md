@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Investigation of Thermoelectric Properties of Doped BaTiO3 Near the
-Ferroelectric Transition "
+Ferroelectric Transition"
   company = "Supervisor: Prof. Bin Xu"
   company_url = ""
   location = "Soochow University"
