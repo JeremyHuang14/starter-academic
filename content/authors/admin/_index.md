@@ -69,4 +69,4 @@ user_groups:
 
 Hello! I'm Diancheng Huang, an undergraduate majoring in physics at Soochow University. I am currently investigating the thermoelectric properties of doped BaTiO3 near its ferroelectric transition in Prof. Bin Xu's computational condensed matter group. Previous to this, I have been in Prof. Yu Xin's experimental group to optimize the electrocatalytic properties of IrO2-SrTiO3.
 
-My current interest is mainly in condensed matter physics, e.g. correlated electron systems, topological matter, two dimensional matters, spectroscopy (SEM, TEM, ARPES, neutron scattering). Also, some other areas like quantum information and transimission, AMO (ultracold atoms, optical/phonon crystals) are very interesting to me.
+My current interest is mainly in condensed matter physics, e.g. correlated electron systems, topological materials, two dimensional matters, spectroscopy (SEM, TEM, ARPES, neutron scattering). Also, some other areas like quantum information and transimission, AMO (ultracold atoms, optical/phonon crystals) are very interesting to me.
