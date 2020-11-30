@@ -36,7 +36,7 @@ subtitle = ""
   icon = "logo-matlab"
   icon_pack = "custom"
   name = "Matlab"
-  description = "50" 
+  description = "50%" 
 
 # Uncomment to use emoji icons.
 # [[feature]]
