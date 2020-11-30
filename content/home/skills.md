@@ -21,9 +21,9 @@ subtitle = ""
   description = "60%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
+  icon = "logo-originlab"
+  icon_pack = "custom"
+  name = "Origin"
   description = "100%"  
   
 [[feature]]
