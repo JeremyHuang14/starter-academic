@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "logo-abinit"
-  icon_pack = "fab"
+  icon_pack = "custom"
   name = "Abinit"
   description = "60%"
   
