@@ -24,7 +24,7 @@ subtitle = ""
   icon = "logo-originlab"
   icon_pack = "custom"
   name = "Origin"
-  description = "100%"  
+  description = "90%"  
   
 [[feature]]
   icon = "camera-retro"
